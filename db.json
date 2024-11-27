@@ -1,0 +1,23 @@
+{
+    "users": [],
+    "materias": [
+        {
+            "id": 1,
+            "materia": "Português",
+            "submateria": "Redação",
+            "tempo": 120,
+            "certo": 80,
+            "total": 100,
+            "meta": 80
+        },
+        {
+            "id": 2,
+            "materia": "Matemática",
+            "submateria": "Cálculo 1",
+            "tempo": 90,
+            "certo": 68,
+            "total": 100,
+            "meta": 70
+        }
+    ]
+}
