@@ -1,23 +1,30 @@
 {
-    "users": [],
-    "materias": [
-        {
-            "id": 1,
-            "materia": "Português",
-            "submateria": "Redação",
-            "tempo": 120,
-            "certo": 80,
-            "total": 100,
-            "meta": 80
-        },
-        {
-            "id": 2,
-            "materia": "Matemática",
-            "submateria": "Cálculo 1",
-            "tempo": 90,
-            "certo": 68,
-            "total": 100,
-            "meta": 70
-        }
-    ]
+  "users": [
+    {
+      "email": "luizhovadich@pucminas.br",
+      "password": "$2a$10$.XV.N9MDKNaD8DzFvD1XJ.iDoc5Al2HaYCWQCWTa4.RTlv7GVRAby",
+      "name": "Luiz Hovadich",
+      "id": 1
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "materia": "Português",
+      "submateria": "Redação",
+      "tempo": 120,
+      "certo": 80,
+      "total": 100,
+      "meta": 80
+    },
+    {
+      "id": 2,
+      "materia": "Matemática",
+      "submateria": "Cálculo 1",
+      "tempo": 90,
+      "certo": 68,
+      "total": 100,
+      "meta": 70
+    }
+  ]
 }

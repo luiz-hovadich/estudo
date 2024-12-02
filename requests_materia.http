@@ -1,0 +1,38 @@
+### MATERIAS
+GET http://localhost:3000/materias
+
+
+### CREATE
+POST http://localhost:3000/materias
+content-type: application/json
+
+{
+            "id": 3,
+            "materia": "Ingles",
+            "submateria": "Verbo to Be",
+            "tempo": 40,
+            "certo": 0,
+            "total": 0,
+            "meta": 65
+}
+
+### UPDATE
+PUT http://localhost:3000/materias/3
+content-type: application/json
+
+{
+            "id": 3,
+            "materia": "Ingles",
+            "submateria": "Verbo to Be",
+            "tempo": 80,
+            "certo": 40,
+            "total": 60,
+            "meta": 65
+}
+
+
+### GET GASTO
+GET http://localhost:3000/materias/3
+
+### DELETE GASTO
+DELETE http://localhost:3000/materias/3

@@ -1,0 +1,22 @@
+### USERS
+GET http://localhost:3000/users
+
+###REGISTER
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+    "name": "Luiz Hovadich",
+    "email": "luizhovadich@pucminas.br",
+    "password": "pucminas"
+}
+
+
+### LOGIN
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "email": "luizhovadich@pucminas.br",
+    "password": "pucminas"
+}
