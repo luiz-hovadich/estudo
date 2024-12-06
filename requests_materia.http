@@ -9,7 +9,7 @@ content-type: application/json
 {
             "id": 3,
             "materia": "Ingles",
-            "submateria": "Verbo to Be",
+            "submat": "Verbo to Be",
             "tempo": 40,
             "certo": 0,
             "total": 0,
@@ -23,7 +23,7 @@ content-type: application/json
 {
             "id": 3,
             "materia": "Ingles",
-            "submateria": "Verbo to Be",
+            "submat": "Verbo to Be",
             "tempo": 80,
             "certo": 40,
             "total": 60,

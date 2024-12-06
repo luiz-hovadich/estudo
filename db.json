@@ -17,7 +17,7 @@
     {
       "id": 1,
       "materia": "Português",
-      "submateria": "Redação",
+      "submat": "Redação",
       "tempo": 120,
       "certo": 80,
       "total": 100,
@@ -26,7 +26,7 @@
     {
       "id": 2,
       "materia": "Matemática",
-      "submateria": "Cálculo 1",
+      "submat": "Cálculo 1",
       "tempo": 90,
       "certo": 68,
       "total": 100,
@@ -40,6 +40,15 @@
       "certo": 0,
       "total": 0,
       "id": 3
+    },
+    {
+      "materia": "A",
+      "submat": "F",
+      "meta": "6",
+      "tempo": "10",
+      "certo": "2",
+      "total": "15",
+      "id": 4
     }
   ]
 }
