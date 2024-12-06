@@ -11,18 +11,6 @@
       "password": "$2a$10$ig5doAHDBqYZRPHMV0ys4e9IH/tgMwu.ELRi5MEWDkGABVN/PSS3W",
       "name": "Luiz Hovadich",
       "id": 2
-    },
-    {
-      "email": "luizhovadich3@pucminas.br",
-      "password": "$2a$10$5MR9a09DRnYQtZatg0B5lusj/V/GNqp7IUOj.CAbFGk05N6TaYCwy",
-      "name": "Luiz Hovadich",
-      "id": 3
-    },
-    {
-      "email": "luizhovadich9@pucminas.br",
-      "password": "$2a$10$VQdBOxT/ZXJDgtkDS0edquQirPSLDoqk39zit7/uzrfCy1ymTFqR2",
-      "name": "Luiz Hovadich",
-      "id": 4
     }
   ],
   "materias": [
@@ -45,13 +33,13 @@
       "meta": 70
     },
     {
-      "id": 3,
-      "materia": "Ingles",
-      "submateria": "Verbo to Be",
-      "tempo": 80,
-      "certo": 40,
-      "total": 60,
-      "meta": 65
+      "materia": "A",
+      "submat": "A",
+      "meta": "5",
+      "tempo": 0,
+      "certo": 0,
+      "total": 0,
+      "id": 3
     }
   ]
 }
