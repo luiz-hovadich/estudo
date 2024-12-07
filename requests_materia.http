@@ -17,22 +17,22 @@ content-type: application/json
 }
 
 ### UPDATE
-PUT http://localhost:3000/materias/3
+PUT http://localhost:3000/materias/2
 content-type: application/json
 
 {
-            "id": 3,
-            "materia": "Ingles",
-            "submat": "Verbo to Be",
-            "tempo": 80,
-            "certo": 40,
-            "total": 60,
-            "meta": 65
+    "id": 2,
+    "materia": "Matemática",
+    "submat": "Cálculo 1",
+    "tempo": 90,
+    "certo": 68,
+    "total": 100,
+    "meta": 70
 }
 
 
-### GET GASTO
+### GET MATERIAS
 GET http://localhost:3000/materias/3
 
-### DELETE GASTO
+### DELETE MATERIAS
 DELETE http://localhost:3000/materias/3

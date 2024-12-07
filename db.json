@@ -5,50 +5,7 @@
       "password": "$2a$10$.XV.N9MDKNaD8DzFvD1XJ.iDoc5Al2HaYCWQCWTa4.RTlv7GVRAby",
       "name": "Luiz Hovadich",
       "id": 1
-    },
-    {
-      "email": "luizhovadich1@pucminas.br",
-      "password": "$2a$10$ig5doAHDBqYZRPHMV0ys4e9IH/tgMwu.ELRi5MEWDkGABVN/PSS3W",
-      "name": "Luiz Hovadich",
-      "id": 2
     }
   ],
-  "materias": [
-    {
-      "id": 1,
-      "materia": "Português",
-      "submat": "Redação",
-      "tempo": 120,
-      "certo": 80,
-      "total": 100,
-      "meta": 80
-    },
-    {
-      "id": 2,
-      "materia": "Matemática",
-      "submat": "Cálculo 1",
-      "tempo": 90,
-      "certo": 68,
-      "total": 100,
-      "meta": 70
-    },
-    {
-      "materia": "A",
-      "submat": "A",
-      "meta": "5",
-      "tempo": 0,
-      "certo": 0,
-      "total": 0,
-      "id": 3
-    },
-    {
-      "materia": "A",
-      "submat": "F",
-      "meta": "6",
-      "tempo": "10",
-      "certo": "2",
-      "total": "15",
-      "id": 4
-    }
-  ]
+  "materias": []
 }
